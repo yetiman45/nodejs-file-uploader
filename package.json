@@ -12,5 +12,10 @@
     "multer": "^1.4.5-lts.2"
   },
   "author": "Dipin Niroula <dipinniroula@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yetiman45/nodejs-file-uploader/issues"
+  },
+  "homepage": "https://github.com/yetiman45/nodejs-file-uploader#readme"
+
 }
