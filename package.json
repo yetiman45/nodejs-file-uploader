@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-file-uploader",
+  "version": "1.0.2",
+  "description": "A Node.js module to upload large files with streams and show progress bar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "postinstall": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.2"
+  },
+  "author": "Dipin Niroula <dipinniroula@hotmail.com>",
+  "license": "MIT"
+}
